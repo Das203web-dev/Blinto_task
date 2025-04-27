@@ -1,0 +1,65 @@
+[
+    {
+        "rating": 5,
+        "review": "Lorem ipsum dolor sit amet, consectetur ad-zzz-ing elit. Proin vel urna at metus tempor mattis, or not, whatever.",
+        "reviewerImage": "https://i.pravatar.cc/100?img=1",
+        "reviewerName": "X_AE_A-13",
+        "reviewerDesignation": "Product Designer, slothUI"
+    },
+    {
+        "rating": 4,
+        "review": "Posuere urna nec tincidunt praesent semper feugiat nibh sed. Velit dignissim sodales ut eu.",
+        "reviewerImage": "https://i.pravatar.cc/100?img=2",
+        "reviewerName": "Azunyan U. Wu",
+        "reviewerDesignation": "CEO, nextlife.ai"
+    },
+    {
+        "rating": 5,
+        "review": "Sit amet est placerat in. Blandit cursus risus at ultrices mi tempus imperdiet. Volutpat commodo sed egestas egestas fringilla phasellus. Tincidunt eget nullam non nisi. ",
+        "reviewerImage": "https://i.pravatar.cc/100?img=3",
+        "reviewerName": "Mechatronics Yi",
+        "reviewerDesignation": "CTO, fin4win.ai"
+    },
+    {
+        "rating": 3,
+        "review": "Nisi porta lorem mollis aliquam ut porttitor leo. Sed odio morbi quis commodo. Arcu non odio euismod lacinia at quis. Nec sagittis aliquam malesuada bibendum arcu vitae elementum curabitur vitae.",
+        "reviewerImage": "https://i.pravatar.cc/100?img=4",
+        "reviewerName": "Former President of US",
+        "reviewerDesignation": "QA Engineer"
+    },
+    {
+        "rating": 4.5,
+        "review": "Accumsan tortor posuere ac ut consequat. Quis varius quam quisque id diam vel. Commodo odio aenean sed adipiscing diam donec adipiscing. Vel pharetra vel turpis nunc eget.",
+        "reviewerImage": "https://i.pravatar.cc/100?img=5",
+        "reviewerName": "Saylor Twift",
+        "reviewerDesignation": "Famous Singer"
+    },
+    {
+        "rating": 5,
+        "review": "Venenatis cras sed felis eget velit aliquet. Velit scelerisque in dictum non consectetur. Felis eget velit aliquet sagittis. Ultricies integer quis auctor elit sed vulputate mi. ",
+        "reviewerImage": "https://i.pravatar.cc/100?img=6",
+        "reviewerName": "Asuna Yuuki",
+        "reviewerDesignation": "Virtual Swordsman"
+    },
+    {
+        "rating": 4,
+        "review": "Sagittis eu volutpat odio facilisis mauris sit amet massa. Urna et pharetra pharetra massa.",
+        "reviewerImage": "https://i.pravatar.cc/100?img=7",
+        "reviewerName": "Boe Jiden",
+        "reviewerDesignation": "Former President Of Canada"
+    },
+    {
+        "rating": 5,
+        "review": " Cras fermentum odio eu feugiat pretium nibh ipsum consequat nisl. Nec nam aliquam sem et tortor consequat id porta nibh. Viverra suspendisse. Lacus sed viverra tellus in hac habitasse platea dictumst. Elit at imperdiet dui accumsan.",
+        "reviewerImage": "https://i.pravatar.cc/100?img=8",
+        "reviewerName": "Vermillion D. Gray",
+        "reviewerDesignation": "CEO, hacklife.ai"
+    },
+    {
+        "rating": 3,
+        "review": "Viverra accumsan in nisl nisi scelerisque eu. Vitae congue eu consequat ac felis donec.",
+        "reviewerImage": "https://i.pravatar.cc/100?img=9",
+        "reviewerName": "Zuckman Wu",
+        "reviewerDesignation": "CEO, tech4life.ai"
+    }
+]

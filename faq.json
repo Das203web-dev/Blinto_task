@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "faq": "Enim sed faucibus turpis in eu mi bibendum neque egestas?",
+        "ans": "Mattis ullamcorper velit sed ullamcorper morbi tincidunt. In metus vulputate eu scelerisque felis imperdiet proin fermentum leo. Diam quis enim lobortis scelerisque fermentum dui faucibus. Urna nunc id cursus metus aliquam eleifend mi. Gravida quis blandit turpis cursus in hac."
+    },
+    {
+        "id": 2,
+        "faq": "Amet consectetur adipiscing elit pellentesque habitant morbi tristique?",
+        "ans": "Mattis ullamcorper velit sed ullamcorper morbi tincidunt. In metus vulputate eu scelerisque felis imperdiet proin fermentum leo. Diam quis enim lobortis scelerisque fermentum dui faucibus. Urna nunc id cursus metus aliquam eleifend mi. Gravida quis blandit turpis cursus in hac."
+    },
+    {
+        "id": 3,
+        "faq": "Elit pellentesque habitant morbi tristique senectus?",
+        "ans": "Mattis ullamcorper velit sed ullamcorper morbi tincidunt. In metus vulputate eu scelerisque felis imperdiet proin fermentum leo. Diam quis enim lobortis scelerisque fermentum dui faucibus. Urna nunc id cursus metus aliquam eleifend mi. Gravida quis blandit turpis cursus in hac."
+    },
+    {
+        "id": 4,
+        "faq": "Gravida quis blandit turpis cursus in hac. Mi ipsum faucibus vitae aliquet nec?",
+        "ans": "Mattis ullamcorper velit sed ullamcorper morbi tincidunt. In metus vulputate eu scelerisque felis imperdiet proin fermentum leo. Diam quis enim lobortis scelerisque fermentum dui faucibus. Urna nunc id cursus metus aliquam eleifend mi. Gravida quis blandit turpis cursus in hac."
+    },
+    {
+        "id": 5,
+        "faq": "Est pellentesque elit ullamcorper dignissim cras. In pellentesque massa placerat?",
+        "ans": "Mattis ullamcorper velit sed ullamcorper morbi tincidunt. In metus vulputate eu scelerisque felis imperdiet proin fermentum leo. Diam quis enim lobortis scelerisque fermentum dui faucibus. Urna nunc id cursus metus aliquam eleifend mi. Gravida quis blandit turpis cursus in hac."
+    }
+]
