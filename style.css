@@ -145,6 +145,7 @@ nav {
 }
 .badge-container button{
   border: none;
+  background-color: transparent;
 }
 
 /* this section title and para class is used for each section title and paragraph  */

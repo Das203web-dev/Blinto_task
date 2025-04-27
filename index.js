@@ -18,17 +18,17 @@ mobileMenu.addEventListener('click', () => {
 
 // Brand logos array with id and image path
 const brandLogo = [
-  { id: 1, logo: '/assests/brandImg/b1.png' },
-  { id: 2, logo: '/assests/brandImg/b2.png' },
-  { id: 3, logo: '/assests/brandImg/b3.png' },
-  { id: 4, logo: '/assests/brandImg/b4.png' },
-  { id: 5, logo: '/assests/brandImg/b5.png' },
-  { id: 6, logo: '/assests/brandImg/b6.png' },
-  { id: 7, logo: '/assests/brandImg/b7.png' },
-  { id: 8, logo: '/assests/brandImg/b8.png' },
-  { id: 9, logo: '/assests/brandImg/b9.png' },
-  { id: 10, logo: '/assests/brandImg/b10.png' },
-  { id: 11, logo: '/assests/brandImg/b11.png' }
+  { id: 1, logo: './assests/brandImg/b1.png' },
+  { id: 2, logo: './assests/brandImg/b2.png' },
+  { id: 3, logo: './assests/brandImg/b3.png' },
+  { id: 4, logo: './assests/brandImg/b4.png' },
+  { id: 5, logo: './assests/brandImg/b5.png' },
+  { id: 6, logo: './assests/brandImg/b6.png' },
+  { id: 7, logo: './assests/brandImg/b7.png' },
+  { id: 8, logo: './assests/brandImg/b8.png' },
+  { id: 9, logo: './assests/brandImg/b9.png' },
+  { id: 10, logo: './assests/brandImg/b10.png' },
+  { id: 11, logo: './assests/brandImg/b11.png' }
 ]
 
 // Dynamically create and append brand logos to brand container
