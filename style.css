@@ -100,6 +100,7 @@ nav {
   gap: 32px;
   padding: 64px 0;
   flex-wrap: wrap;
+  background-color: #f8fafc;
 }
 .brand-div {
   height: 80px;
