@@ -668,9 +668,9 @@ footer li a{
     padding: 0 20px;
   }
   .brand-container {
-    gap: 20px;
-    justify-content: flex-start;
-    padding: 64px 20px;
+    padding: 64px 16px;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
   }
   .brand-div {
     height: 40px;

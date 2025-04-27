@@ -47,7 +47,7 @@ brandLogo.map((brand) => {
 
 // Fetch and render feature cards dynamically from features.json
 const fetchFeature = () =>{
-  fetch('/features.json')
+  fetch('features.json')
   .then(response => response.json())
   .then(data => {
     const featureContainer = document.querySelector('.feature-container')
@@ -96,7 +96,7 @@ const loadMoreBtn = document.querySelector('.load-more-btn')
 
 // Fetch reviews from reviews.json
 const handleReviews = async () => {
-  const response = await fetch('/reviews.json')
+  const response = await fetch('reviews.json')
   const data = await response.json()
   reviews = data
   reviewRenderer()
@@ -203,7 +203,7 @@ const handleDropdown = (id, event) => {
 
 // Fetch and render FAQ section dynamically
 const fetchFAQ = () => {
-  fetch('/faq.json')
+  fetch('faq.json')
     .then(response => response.json())
     .then(data => {
       const faqContainer = document.querySelector('.faq-contents')
